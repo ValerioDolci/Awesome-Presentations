@@ -7,6 +7,7 @@ This list contains free tools and resources for creating, designing, working wit
 * [reveal.js](https://revealjs.com/) is an open-source HTML presentation framework.
 * [Keynote](https://www.apple.com/keynote/). With its powerful tools and dazzling effects, Keynote makes it easy to create stunning and memorable presentations. 
 * [Canva](https://www.canva.com/). Providing a pleasant editor, beautiful templates, and lively animations, Canvas allows you to create high-quality presentations in the fewest steps possible.
+* [Slidewright](https://github.com/ValerioDolci/slidewright) is a local, open-source visual editor for HTML slide decks — reorder slides, edit text and graphics (a mini-PowerPoint), and export a clean HTML deck or a 16:9 PDF. 100% local: no cloud, no sign-up. MIT.
 
 ## Converters
 
